@@ -1,0 +1,19 @@
+1.import javax.JOptionPane;
+2.public class FistProgram{
+   public static voin main(String[] arg)
+   {
+    System.out.print("Student id is 2413111069" +"\n\t student name is wetpisitphon lanrak" + 
+                      "\n\t Topic is Github" + "\n\t \\20\\11\\2024");
+                     
+                       
+                      JOptionPane.ShowMessageDialog(null,
+                                                     "Student id is 2413111069 +"\n\t student name is wetpisitphon lanrak" + 
+                      "\n\t Topic is Github" + "\n\t \\20\\11\\2024",
+                                                     "Phom hiw khao",
+                                                     "JOption.WARNING_MESSAGE.
+                                                                                                                                             
+
+}
+
+  
+
