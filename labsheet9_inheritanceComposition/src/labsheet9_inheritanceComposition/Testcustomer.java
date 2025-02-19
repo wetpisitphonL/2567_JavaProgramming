@@ -43,8 +43,8 @@ public class Testcustomer {
 	 System.out.println("customer is: "+inv1.getCustomerName());
 	 // show customer's discount by instance inv1
 	 System.out.println("customer discount is: "+inv1.getCustomerDiscount());
-	 // show invoice's amount after discount(format as output)
-	 System.out.println("amont after discount: "+inv1.getAmountAfterDiscount());
+	 // show invoice's amount after discount(format as output)	 
+	 System.out.printf("amount after discount is: %.2f",inv1.getAmountAfterDiscount());
 	 } //end of main method()
 	 public static void Line() {
 	 //use for() statement to display symbol *
